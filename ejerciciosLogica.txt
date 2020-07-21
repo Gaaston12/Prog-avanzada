@@ -1,0 +1,39 @@
+Dirección de correo electrónico 
+
+	-gaastonmaartin12@gmail.com
+	-
+
+Nombre y Apellido de los integrantes del grupo (máximo dos personas) 
+
+	-Gaston Martin
+	-
+
+Qué condiciones se debe cumplir para poder aplicar la partición de rango? De un ejemplo donde no se pueda aplicar.
+
+	-el operador tiene que ser idempotente
+	-los predicados tienen que se disjuntos
+	-ej
+
+Cuál es la propiedad del término constante? En cuales operaciones se puede usar? Explique por qué no se puede usar en la multiplicación.
+	
+	-
+
+
+Especificaciones
+A continuación especificar los siguientes enunciados:
+
+1) Dada una lista de números y un número (x), su función debe decir si hay posiciones de la lista i<j, tal que todas las posiciones menores a i tienen elementos menores a x, de i hasta j-1 son todos iguales a x, y de j en adelante son mayores a x. Dar dos especificaciones diferentes.
+
+	-
+
+2) Especificar la función f, que dada una lista de números retorna un número, f:[Num]->Num, que cuenta la cantidad de subsegmentos de una lista tal que su suma es positiva.
+
+	-
+
+3) Especificar la función g, g:[Num]->Num, que dada una lista de enteros, determina la longitud del segmento más corto con exactamente dos ceros.
+
+	-
+
+4) Especificar la función h, que toma una lista de números (xs) y retorna un valor de verdad,  h:[Num]->Bool,  tal que determina si existe algún elemento de xs cuyo valor es la suma de los anteriores.
+
+	-
